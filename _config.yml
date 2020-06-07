@@ -13,7 +13,7 @@ description: "Stay up to date about Sparkly and our mission to build a more coll
 twitter:
   username: "Sparkly_Bot"
   card: "summary_large_image"
-logo: "path/to/image"
+logo: "/resources/logo.png"
 social:
   links:
     - https://twitter.com/Sparkly_Bot

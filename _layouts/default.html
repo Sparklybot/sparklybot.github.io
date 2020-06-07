@@ -5,16 +5,25 @@
     <meta charset="UTF-8">
     {% feed_meta %}
     {% seo %}
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Lora:700&display=swap" rel="stylesheet">
+    <link rel="icon" href="resources/favicon.ico">
     <link rel="stylesheet" href="/css/site.css">
-  </head>
-  <body>
-    <section>
-      {{ content }}
-    </section>
 
     {% if jekyll.environment == 'production' %}
       {% include analytics.html %}
     {% endif %}
+  </head>
+  <body>
+    {% include header.html %}
+
+
+    <section class="flex container mx-auto sm:px-4 py-16">
+      {{ content }}
+    </section>
+
+
+    {% include footer.html %}
+    {% include footer_scripts.html %}
   </body>
 </html>
 

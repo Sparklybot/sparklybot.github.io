@@ -4,10 +4,9 @@
   "description": "Sparkly website",
   "private": true,
   "scripts": {
-    "build": "gulp build",
+    "build": "set NODE_ENV=development&& gulp build",
     "build-prod": "set NODE_ENV=production&& gulp build",
-    "run": "gulp build && bundle exec jekyll serve",
-    "run-prod": "set NODE_ENV=production&& gulp build && bundle exec jekyll serve"
+    "serve": "set NODE_ENV=development&& gulp build && bundle exec jekyll serve"
   },
   "devDependencies": {
     "@tailwindcss/ui": "^0.3.0",
