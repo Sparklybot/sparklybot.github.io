@@ -1,55 +1,56 @@
-# Build settings
+---
+title: Sparkly Blog
+timezone: UTC
+collections:
+  category:
+    title: Category
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/:categories/:title/"
+    layout: post
+    excerpt_separator: "<!--more-->"
+- scope:
+    path: ''
+    type: category
+  values:
+    layout: category
 markdown: kramdown
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# jekyll-seo-tag configuration
-author: "Sparkly_Bot"
-url: "blog.sparklybot.com"
-title: "Sparkly Blog"
-description: "Stay up to date about Sparkly and our mission to build a more collaborative culture at work. We also write about Slack tips, remote work and employee happiness."
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+author: Sparkly_Bot
+url: blog.sparklybot.com
+description: Stay up to date about Sparkly and our mission to build a more collaborative
+  culture at work. We also write about Slack tips, remote work and employee happiness.
 twitter:
-  username: "Sparkly_Bot"
-  card: "summary_large_image"
+  username: Sparkly_Bot
+  card: summary_large_image
 logo: "/resources/logo.png"
 social:
   links:
-    - https://twitter.com/Sparkly_Bot
-    - https://www.linkedin.com/company/sparklybot
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+  - https://twitter.com/Sparkly_Bot
+  - https://www.linkedin.com/company/sparklybot
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - yarn.lock
-  - package-lock.json
-  - README.md
-  - netlify.toml
-  - bin
-  - .gitignore
-  - .idea
-  - .idea/
-  - build/
-
-collections:
-  category:
-    output: true
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: /:categories/:title/
-      layout: post
-      excerpt_separator: <!--more-->
-  - scope:
-      path: ""
-      type: "category"
-    values:
-      layout: "category"
+- Gemfile
+- Gemfile.lock
+- node_modules
+- yarn.lock
+- package-lock.json
+- README.md
+- netlify.toml
+- bin
+- ".gitignore"
+- ".idea"
+- ".idea/"
+- build/

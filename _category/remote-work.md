@@ -1,3 +1,6 @@
 ---
-category: remote-work
+title: Remote Work
+categories:
+- remote-work
 ---
+
