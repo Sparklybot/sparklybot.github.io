@@ -2,12 +2,23 @@ document.addEventListener('DOMContentLoaded', function() {
     const mobileMenu = $("#mobile-menu");
     const content = $("#content");
 
+    const firebaseConfig = {
+        apiKey: "AIzaSyDTOU0Wdco22U6oLwx7Zx0hheIhEDDnAEk",
+        authDomain: "sparkly-bot.firebaseapp.com",
+        projectId: "sparkly-bot",
+        appId: "1:823194089324:web:d090342ef724ccf704e549"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+
     firebase.auth().onAuthStateChanged((user) => {
         if (user) {
-            $('#sign-in-link-mobile').attr('href','https://sparklybot.com/account');
-            $('#sign-in-link').attr('href','https://sparklybot.com/account');
-            $('#sign-in-link-mobile').text('My Dashboard');
-            $('#sign-in-link').text('My Dashboard');
+            let signInMobile = $('#sign-in-link-mobile');
+            let signIn = $('#sign-in-link');
+            signInMobile.attr('href','https://sparklybot.com/account');
+            signIn.attr('href','https://sparklybot.com/account');
+            signInMobile.text('My Dashboard');
+            signIn.text('My Dashboard');
         }
     });
 

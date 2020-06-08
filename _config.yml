@@ -33,4 +33,23 @@ exclude:
   - bin
   - .gitignore
   - .idea
-  - .idea/*
+  - .idea/
+  - build/
+
+collections:
+  category:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:categories/:title/
+      layout: post
+      excerpt_separator: <!--more-->
+  - scope:
+      path: ""
+      type: "category"
+    values:
+      layout: "category"
