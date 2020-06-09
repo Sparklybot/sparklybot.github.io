@@ -1,4 +1,3 @@
----
 title: Sparkly Blog
 timezone: UTC
 collections:
@@ -11,19 +10,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/:categories/:title/"
-    layout: post
-    excerpt_separator: "<!--more-->"
-- scope:
-    path: ''
-    type: category
-  values:
-    layout: category
 markdown: kramdown
 plugins:
 - jekyll-feed
@@ -42,7 +28,6 @@ social:
   - https://twitter.com/Sparkly_Bot
   - https://www.linkedin.com/company/sparklybot
 exclude:
-<<<<<<< HEAD
   - Gemfile
   - Gemfile.lock
   - node_modules
@@ -51,35 +36,16 @@ exclude:
   - README.md
   - netlify.toml
   - bin
-  - .gitignore
-  - .idea
-  - .idea/
+  - ".gitignore"
+  - ".idea"
+  - ".idea/"
   - build/
 
-collections:
-  category:
-    output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
+  - scope:
+      path: ''
+      type: posts
     values:
-      permalink: /:categories/:title/
+      permalink: "/:categories/:title/"
       layout: post
-      excerpt_separator: <!--more-->
-
-=======
-- Gemfile
-- Gemfile.lock
-- node_modules
-- yarn.lock
-- package-lock.json
-- README.md
-- netlify.toml
-- bin
-- ".gitignore"
-- ".idea"
-- ".idea/"
-- build/
->>>>>>> 678cf39d5aba007f31079c63836aef1b99d0c69d
+      excerpt_separator: "<!--more-->"
