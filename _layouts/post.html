@@ -2,7 +2,23 @@
 layout: default
 ---
 
-{{ content }}
+<section class="container mx-auto sm:px-4 pt-8 pb-16 max-w-4xl">
+    <div class="text-center mt-16">
+        <h2 class="text-7xl leading-9 tracking-tight font-extrabold text-gray-900 sm:text-5xl sm:leading-10">
+            {{ page.title }}
+        </h2>
+        <p class="mt-3 max-w-4xl mx-auto text-base leading-7 text-gray-500 sm:mt-4">
+            Published: {{ page.date | date: '%B %d, %Y' }} &middot; Read time: {{ page.duration }}
+        </p>
+        <a class="mt-3 max-w-4xl mx-auto text-sm leading-7 text-gray-500 sm:mt-4" href="/">
+            Return to blog overview
+        </a>
+    </div>
+    <div class="mt-8 mb-6 flex justify-center mx-auto max-w-4xl">
+        <img src="{{ page.image }}" alt="Blog image for article">
+    </div>
+    {{ content }}
+</section>
 
 <div class="related">
     <h3>Related Posts</h3>

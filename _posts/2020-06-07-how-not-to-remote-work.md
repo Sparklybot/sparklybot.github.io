@@ -3,7 +3,7 @@ title: How not to remote work?
 date: 2020-06-07 15:45:06 Z
 categories:
 - remote-work
-image: https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80
+image: https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2978&q=80
 author: erwin
 duration: 6 min read
 ---
