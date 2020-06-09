@@ -1,8 +1,8 @@
 ---
-title:  "How to remote work?"
-date:   2020-06-08 15:45:06
-categories: 
-  - remote-work
+title: How to remote work?
+date: 2020-06-08 15:45:06 Z
+categories:
+- remote-work
 image: https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
 author: erwin
 duration: 6 min read
