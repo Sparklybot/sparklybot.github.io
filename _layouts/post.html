@@ -10,7 +10,7 @@ layout: default
         <p class="mt-3 max-w-4xl mx-auto text-base leading-7 text-gray-500 sm:mt-4">
             Published: {{ page.date | date: '%B %d, %Y' }} &middot; Read time: {{ page.duration }}
         </p>
-        <a class="mt-3 max-w-4xl mx-auto text-sm leading-7 text-gray-500 sm:mt-4" href="/">
+        <a class="return-overview mt-3 max-w-4xl mx-auto text-sm leading-7 text-gray-500 sm:mt-4" href="/">
             Return to blog overview
         </a>
     </div>
@@ -33,7 +33,7 @@ layout: default
         </h2>
         <div class="mt-8 flex lg:flex-shrink-0 lg:mt-0">
             <div class="inline-flex rounded-md shadow">
-                <a id="install-link-free" href="https://sparklybot.com/auth/install" class="text-center text-2xl font-title font-semibold inline-block px-4 py-4 mx-auto leading-none border rounded text-white bg-primary border-primary hover:underline">
+                <a id="blog-cta" href="https://sparklybot.com/auth/install" class="text-center text-2xl font-title font-semibold inline-block px-4 py-4 mx-auto leading-none border rounded text-white bg-primary border-primary hover:underline">
                     <i class="fab fa-slack mr-2"></i>Add Sparkly to Slack
                 </a>
             </div>
@@ -55,15 +55,18 @@ layout: default
                 <div>
                     {% assign firstRelatedCategory = related.categories | first %}
                     <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 bg-indigo-100 text-indigo-800">
-                        <a href="/category/{{ firstRelatedCategory }}">{{ firstRelatedCategory | capitalize | replace: '-', ' ' }}</a>
+                        <a href="/category/{{ firstRelatedCategory }}" class="related-category">{{ firstRelatedCategory | capitalize | replace: '-', ' ' }}</a>
                     </span>
                 </div>
-                <a href="#" class="block">
+                <a href="{{ related.url }}" class="related-blog-article block">
                     <h3 class="mt-4 text-xl leading-7 font-semibold text-gray-900">
                         {{ related.title }}
                     </h3>
                     <p class="mt-3 text-base leading-6 text-gray-500">
                         {{ related.excerpt }}
+                    </p>
+                    <p class="text-base leading-6 text-primary underline hover:text-bold">
+                        Read more
                     </p>
                 </a>
                 <div class="mt-6 flex items-center">
