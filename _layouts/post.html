@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<section class="container mx-auto sm:px-4 pt-8 pb-16 max-w-4xl">
-    <div class="text-center mt-16">
-        <h2 class="text-7xl leading-9 tracking-tight font-extrabold text-gray-900 sm:text-5xl sm:leading-10">
+<section class="container mx-auto px-4 pt-8 pb-8 max-w-4xl">
+    <div class="text-center mt-4 lg:mt-16">
+        <h2 class="text-4xl leading-9 tracking-tight font-extrabold text-gray-900 sm:text-5xl sm:leading-10">
             {{ page.title }}
         </h2>
         <p class="mt-3 max-w-4xl mx-auto text-base leading-7 text-gray-500 sm:mt-4">
@@ -17,20 +17,84 @@ layout: default
     <div class="mt-8 mb-6 flex justify-center mx-auto max-w-4xl">
         <img src="{{ page.image }}" alt="Blog image for article">
     </div>
-    {{ content }}
+    <div id="content" class="my-8">
+        {{ content }}
+    </div>
 </section>
 
-<div class="related">
-    <h3>Related Posts</h3>
-    {% assign firstCategory = page.categories | first %}
-    {% assign relatedCount = 0 %}
-    {% for related in site.categories[firstCategory] %}
-      {% unless page.permalink == related.permalink %}
-        {% assign relatedCount = relatedCount | plus: 1 %}
-        <a href="{{related.permalink}}">{{ related.title }}</a>
-      {% endunless %}
-      {% if relatedCount == 3 %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
+
+<div class="bg-light">
+    <div class="max-w-4xl mx-auto py-12 px-4 lg:py-16 lg:flex lg:items-center lg:justify-between">
+        <h2 class="text-2xl leading-9 font-extrabold tracking-tight text-gray-900 sm:leading-10">
+            Ready for a more collaborative work culture?
+            <br />
+            <span class="text-primary">Start your free trial today!
+      </span>
+        </h2>
+        <div class="mt-8 flex lg:flex-shrink-0 lg:mt-0">
+            <div class="inline-flex rounded-md shadow">
+                <a id="install-link-free" href="https://sparklybot.com/auth/install" class="text-center text-2xl font-title font-semibold inline-block px-4 py-4 mx-auto leading-none border rounded text-white bg-primary border-primary hover:underline">
+                    <i class="fab fa-slack mr-2"></i>Add Sparkly to Slack
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
+
+
+<section class="container mx-auto px-4 pt-8 pb-16 max-w-4xl">
+    <h3 class="text-4xl leading-9 tracking-light font-bold text-gray-900 sm:text-3xl sm:leading-10">Related articles</h3>
+
+    <div class="mt-2 grid gap-16 border-t-2 border-gray-100 pt-6 lg:grid-cols-3 lg:col-gap-5 lg:row-gap-12">
+        {% assign firstCategory = page.categories | first %}
+        {% assign relatedCount = 0 %}
+        {% for related in site.categories[firstCategory] %}
+          {% unless page.url == related.url %}
+            {% assign relatedCount = relatedCount | plus: 1 %}
+            <div>
+                <div>
+                    {% assign firstRelatedCategory = related.categories | first %}
+                    <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 bg-indigo-100 text-indigo-800">
+                        <a href="/category/{{ category }}">{{ firstRelatedCategory | capitalize | replace: '-', ' ' }}</a>
+                    </span>
+                </div>
+                <a href="#" class="block">
+                    <h3 class="mt-4 text-xl leading-7 font-semibold text-gray-900">
+                        {{ related.title }}
+                    </h3>
+                    <p class="mt-3 text-base leading-6 text-gray-500">
+                        {{ related.excerpt }}
+                    </p>
+                </a>
+                <div class="mt-6 flex items-center">
+                    {% assign author = site.data.authors[related.author] %}
+                    <div class="flex-shrink-0">
+                        <img class="h-10 w-10 rounded-full" src="{{ author.picture }}" alt="Image of {{ author.name }}" />
+                    </div>
+                    <div class="ml-3">
+                        <p class="text-sm leading-5 font-medium text-gray-900">
+                            {{ author.name }}
+                        </p>
+                        <div class="flex text-sm leading-5 text-gray-500">
+                            <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
+                                {{ related.date | date: '%B %d, %Y' }}
+                            </time>
+                            <span class="mx-1">
+                    &middot;
+                  </span>
+                            <span>
+                    {{ related.duration }}
+                  </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+          {% endunless %}
+
+          {% if relatedCount == 3 %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+    </div>
+</section>

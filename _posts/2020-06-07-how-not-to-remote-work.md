@@ -3,6 +3,7 @@ title: How not to remote work?
 date: 2020-06-07 15:45:06 Z
 categories:
 - remote-work
+- employee-happiness
 image: https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2978&q=80
 author: erwin
 duration: 6 min read

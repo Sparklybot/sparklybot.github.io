@@ -24,11 +24,14 @@ layout: default
                 <div class="flex-1 bg-white p-6 flex flex-col justify-between">
                     <div class="flex-1">
                         <p class="text-sm leading-5 font-medium text-indigo-600">
-                            {% assign sortedCategories = post.categories | sort %}
+                            {% assign sortedCategories = post.categories %}
                             {% for category in sortedCategories %}
                               <a href="/category/{{ category }}" class="hover:underline">
                                   {{ category | capitalize | replace: '-', ' ' }}
                               </a>
+                              {% if forloop.last == false %}
+                                  <span class="px-1">&middot;</span>
+                              {% endif %}
                             {% endfor %}
                         </p>
                         <a href="{{ post.url }}" class="block">
