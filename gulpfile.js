@@ -1,15 +1,8 @@
 const gulp = require('gulp');
-/*const purgecss = require('gulp-purgecss');*/
 const csso = require('gulp-csso');
 const sass = require('gulp-sass');
 const postcss = require('gulp-postcss');
 const terser = require('gulp-terser');
-
-/*class TailwindExtractor {
-    static extract(content) {
-        return content.match(/[\w-/.:]+(?<!:)/g);
-    }
-}*/
 
 gulp.task('style', function () {
     const tailwindCss = require('tailwindcss');
@@ -20,19 +13,6 @@ gulp.task('style', function () {
             tailwindCss('./tailwind.config.js'),
             require('autoprefixer'),
         ]));
-
-    /*stream = stream.pipe(
-        purgecss({
-            content: [],
-            extractors: [
-                {
-                    extractor: new TailwindExtractor(),
-                    extensions: ['css', 'html']
-                }
-            ],
-            whitelist: ['is-active', 'hidden']
-        })
-    );*/
 
     stream = stream
         .pipe(csso())
