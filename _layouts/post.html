@@ -55,7 +55,7 @@ layout: default
                 <div>
                     {% assign firstRelatedCategory = related.categories | first %}
                     <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 bg-indigo-100 text-indigo-800">
-                        <a href="/category/{{ category }}">{{ firstRelatedCategory | capitalize | replace: '-', ' ' }}</a>
+                        <a href="/category/{{ firstRelatedCategory }}">{{ firstRelatedCategory | capitalize | replace: '-', ' ' }}</a>
                     </span>
                 </div>
                 <a href="#" class="block">
