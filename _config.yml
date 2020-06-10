@@ -25,7 +25,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 author: Sparkly_Bot
-url: blog.sparklybot.com
+url: https://blog.sparklybot.com
 description: Stay up to date about Sparkly and our mission to build a more collaborative
   culture at work. We also write about Slack tips, remote work and employee happiness.
 twitter:

@@ -18,7 +18,7 @@ layout: default
             </a>
         </div>
         <div></div>
-        {% capture url_path %}https://{{ site.url }}{{ page.url }}{% endcapture %}
+        {% capture url_path %}{{ site.url }}{{ page.url }}{% endcapture %}
         <div class="flex">
             <div class="mr-2 text-primary">
                 <a href="https://twitter.com/intent/tweet?url={{ url_path | url_encode }}&text={{ page.title | url_encode }}" target="_blank" aria-label="Twitter">
