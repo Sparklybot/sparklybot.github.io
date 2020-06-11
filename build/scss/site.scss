@@ -6,28 +6,50 @@ h1, h2, h3, h4, h5, h6 {
   @apply tracking-tight font-title leading-9;
 }
 
-h2 {
-  @apply text-2xl font-bold;
-}
-
-h3 {
-  @apply text-xl font-bold;
-}
-
-h4 {
-  @apply text-lg font-bold;
-}
-
-h5 {
-  @apply text-base font-bold;
-}
-
-h6 {
-  @apply text-base italic;
-}
-
 a, span, p {
   @apply font-regular;
+}
+
+article {
+  h2 {
+    @apply text-3xl font-bold mt-4 text-gray-900;
+  }
+
+  h3 {
+    @apply text-2xl font-bold mt-2 text-gray-900;
+  }
+
+  h4 {
+    @apply text-xl font-bold text-gray-900;
+  }
+
+  h5 {
+    @apply text-lg font-bold;
+  }
+
+  h6 {
+    @apply text-base italic;
+  }
+
+  a {
+    @apply text-blue-700 underline;
+  }
+
+  ul {
+    @apply list-inside list-disc my-2;
+  }
+
+  ol {
+    @apply list-inside list-decimal my-2;
+  }
+
+  img {
+    @apply my-4;
+  }
+
+  blockquote {
+    @apply relative px-4 py-2 text-lg italic border-l-4 border-gray-500 font-bold font-title my-1;
+  }
 }
 
 @tailwind components;
