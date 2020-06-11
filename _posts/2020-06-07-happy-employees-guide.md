@@ -13,7 +13,7 @@ What makes a business successful is very different from a decade ago. One of the
 
 <!--more-->
 
-[Sparkly website](http://sparklybot.com)
+> blabla
 
 Morbi suscipit, mi quis convallis varius, sem quam euismod eros, ut eleifend magna ligula quis libero. Nam ornare a enim sed maximus. Phasellus leo augue, imperdiet sed mollis et, eleifend sed purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque faucibus imperdiet sodales. Sed mauris orci, lacinia in risus sed, rhoncus viverra ipsum. Ut hendrerit neque lorem, eget pulvinar nunc vulputate in. Nulla ante eros, pulvinar vel dui sed, mattis ornare tellus. Proin euismod nec leo et faucibus. Donec sollicitudin eleifend diam, eu scelerisque nibh euismod sed. Morbi finibus velit vitae mauris iaculis, a aliquet enim bibendum. Praesent finibus velit vitae dui iaculis tempus.
 
