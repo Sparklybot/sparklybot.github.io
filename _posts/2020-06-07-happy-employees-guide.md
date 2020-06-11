@@ -9,7 +9,7 @@ author: erwin
 duration: 6 min read
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida eget lorem ut pharetra. Suspendisse commodo nisi ut ipsum interdum volutpat. Ut euismod congue lectus, eget tristique arcu laoreet eget. Nam nec gravida velit, id varius odio. 
+What makes a business successful is very different from a decade ago. One of the current trends is to look after employee happiness. Studies have discovered that companies focussing on employee happiness perform better than other companies. But how do you make sure your company is more productive by making sure your employees are happy?
 
 <!--more-->
 
