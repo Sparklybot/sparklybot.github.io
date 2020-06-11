@@ -1,7 +1,6 @@
 ---
 title: How to remote work?
 date: 2020-06-08 15:45:00 Z
-published: false
 categories:
 - employee-happiness
 - remote-work
