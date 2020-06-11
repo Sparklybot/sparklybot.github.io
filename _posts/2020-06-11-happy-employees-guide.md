@@ -1,12 +1,12 @@
 ---
 title: Help your employees to be happier at work, here’s how!
-date: 2020-06-07 15:45:00 Z
+date: 2020-06-11 15:45:00 Z
 categories:
-- remote-work
 - employee-happiness
 image: https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2978&q=80
 author: erwin
 duration: 6 min read
+layout: post
 ---
 
 What makes a business successful is very different from a decade ago. One of the current trends is to look after employee happiness. Studies have discovered that companies focussing on employee happiness perform better than other companies. But how do you make sure your company is more productive by making sure your employees are happy?
