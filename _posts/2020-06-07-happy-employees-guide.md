@@ -1,6 +1,6 @@
 ---
-title: How not to remote work?
-date: 2020-06-07 15:45:06 Z
+title: Help your employees to be happier at work, here’s how!
+date: 2020-06-07 15:45:00 Z
 categories:
 - remote-work
 - employee-happiness
