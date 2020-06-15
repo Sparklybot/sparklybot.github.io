@@ -35,7 +35,7 @@ Building a culture that celebrates personal growth is an important ingredient fo
   
 To stimulate personal growth, training programs can be offered that focus on specific expertise as well as soft skills. Letting employees choose is also a good tactic, as it stimulates them to think about what works best for them. Setting aside a budget to visit relevant conferences, gatherings of communities related to their expertise or online courses are also good alternatives.
 
-> **Summary:** Provide ways for your employees to develop themselves and grow as people. Ultimately, it’s in the best interest of companies to focus on the personal growth of their employees.
+{% include highlight.html text="**Summary:** Provide ways for your employees to develop themselves and grow as people. Ultimately, it’s in the best interest of companies to focus on the personal growth of their employees." %}
 
 ## 3. Celebrate victories, especially the small ones!  
 
@@ -45,13 +45,13 @@ Break down big goals into smaller ones for every team to complete in a defined p
   
 It’s also important to highlight personal growth and there is no better way than to do it with compliments. There are many techniques to stimulate this within teams or departments. One of our personal favourites is the *Post-it compliment jar*. Other team members should occasionally write something positive about someone and put it in the jar. Once every week, the team can pick two or three notes, give them to the team member whom it is for and let them read it out loud. What better way to improve team culture and boost individual confidence!
 
-> **Pro tip:** Be creative in celebrating those small wins. It should never become routine or stale, as that takes away the charm and excitement.
+{% include highlight.html text="**Pro tip:** Be creative in celebrating those small wins. It should never become routine or stale, as that takes away the charm and excitement." %}
 
 ## 4. Encourage spontaneous conversations  
 
 Spontaneous conversations are what bring your teams closer together, whether it’s online or in real life while making a cup of coffee. These interactions are incredibly important. It provides a welcome break from work, satisfies social needs, and can result in new bonds or friendships between colleagues.
   
-With flexible hours or work location, those spontaneous interactions are not so common. We recommend taking proactive action to stimulate this, though. It will help to decrease stress and meeting-fatigue when working from home. Having a day full of meetings can be very detrimental to mental health. This is precisely why we built [Sparkly](https://sparklybot.com), too!
+With flexible hours or work location, those spontaneous interactions are not so common. We recommend taking proactive action to stimulate this, though. It will help to decrease stress and meeting-fatigue when working from home. Having a day full of meetings can be very detrimental to mental health. This is precisely why we built [Sparkly for Slack](https://sparklybot.com), too!
 
 ### Wrapping up!
 
