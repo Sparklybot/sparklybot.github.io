@@ -15,7 +15,7 @@ overview: false
 
 ## What are the advantages of happy employees?  
 
-To answer this question, we explored many recent studies. According to [Gallup](https://dynamicsignal.com/2017/04/21/employee-productivity-statistics-every-stat-need-know/), disengaged and unhappy employees are 37% more likely to take unjustifiable leaves, 18% less productive, and can result in 15% less profit. These statistics make it clear why having happier employees matters! 
+To answer this question, we explored many recent studies. According to [Gallup](https://dynamicsignal.com/2017/04/21/employee-productivity-statistics-every-stat-need-know/){:target="_blank"}, disengaged and unhappy employees are 37% more likely to take unjustifiable leaves, 18% less productive, and can result in 15% less profit. These statistics make it clear why having happier employees matters! 
 
 We know that compensation and other perks are important. But they are not the only things that can make an employee happier. A positive, supportive work environment is just as important. It leads to psychological safety, better teamwork, and a sense of belonging. Those, in turn, can result in better, more qualified work.
 
