@@ -13,7 +13,7 @@ overview: false
 
 <!--more-->
 
-## What are the advantages of happy employees?
+## What are the advantages of happy employees?  
 
 To answer this question, we explored many recent studies. According to [Gallup](https://dynamicsignal.com/2017/04/21/employee-productivity-statistics-every-stat-need-know/), disengaged and unhappy employees are 37% more likely to take unjustifiable leaves, 18% less productive, and can result in 15% less profit. These statistics make it clear why having happier employees matters! 
 
@@ -21,7 +21,7 @@ We know that compensation and other perks are important. But they are not the on
 
 Let’s take a look at the four most important factors that help create this supportive work environment.
 
-### 1. Work-life balance
+## 1. Work-life balance  
 
 In a world where everyone is constantly connected, work-life balance is difficult to get right. For a company to help employees maintain a healthy work-life balance, they should recognize that great company performance and personal life are not conflicting with each other. They go hands in hands as happier employees tend to have higher levels of performance. 
 
@@ -29,7 +29,7 @@ Promoting work-life balance can seem to be a daunting challenge but the key to a
 
 > **Pro tip:** Have regular and open communication with your teams to find out which work enhancements work best for them for maximizing their productivity and happiness.
 
-### 2. Encourage personal development
+## 2. Encourage personal development  
 
 Building a culture that celebrates personal growth is an important ingredient for long term business success. Not only does it make employees happier, but it will also result in more qualitative work and collaboration in the workplace. 
 
@@ -37,7 +37,7 @@ To stimulate personal growth, training programs can be offered that focus on spe
 
 > **Summary:** Provide ways for your employees to develop themselves and grow as people. Ultimately, it’s in the best interest of companies to focus on the personal growth of their employees.
 
-### 3. Celebrate victories, especially the small ones!
+## 3. Celebrate victories, especially the small ones!  
 
 Celebrating big wins is something most companies do. But quite often, the small, personal victories are overlooked and forgotten. If you’d like to build an environment where everyone feels appreciated, it is important to celebrate and recognize small and personal wins along the way. When everyone feels they are an essential part of the company, employee engagement and productivity will increase too.
 
@@ -47,7 +47,7 @@ It’s also important to highlight personal growth and there is no better way th
 
 > **Pro tip:** Be creative in celebrating those small wins. It should never become routine or stale, as that takes away the charm and excitement.
 
-### 4. Encourage spontaneous conversations
+## 4. Encourage spontaneous conversations  
 
 Spontaneous conversations are what bring your teams closer together, whether it’s online or in real life while making a cup of coffee. These interactions are incredibly important. It provides a welcome break from work, satisfies social needs, and can result in new bonds or friendships between colleagues.
 
