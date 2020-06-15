@@ -27,7 +27,7 @@ In a world where everyone is constantly connected, work-life balance is difficul
 
 Promoting work-life balance can seem to be a daunting challenge but the key to a healthier balance is to offer flexible work locations or work times. In conclusion, everyone’s circumstances and ideas of work-life balance are different, but flexibility will help to facilitate the different needs. 
 
-> **Pro tip:** Have regular and open communication with your teams to find out which work enhancements work best for them for maximizing their productivity and happiness.
+{% include highlight.html text="**Pro tip:** Have regular and open communication with your teams to find out which work enhancements work best for them for maximizing their productivity and happiness." %}
 
 ## 2. Encourage personal development  
 
