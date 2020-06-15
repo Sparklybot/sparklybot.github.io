@@ -3,7 +3,7 @@ title: Help your employees to be happier at work, here’s how!
 date: 2020-06-15 15:00:00 Z
 categories:
 - employee-happiness
-image: https://images.unsplash.com/photo-1543269865-cbf427effbad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80
+image: "/uploads/photo-1543269865-cbf427effbad.jfif"
 author: claudia
 duration: 5 min read
 overview: false
