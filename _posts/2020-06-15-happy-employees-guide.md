@@ -4,7 +4,7 @@ date: 2020-06-15 15:00:00 Z
 categories:
 - employee-happiness
 image: "/uploads/blog.jpg"
-author: Claudia
+author: claudia
 duration: 5 min read
 overview: true
 ---
