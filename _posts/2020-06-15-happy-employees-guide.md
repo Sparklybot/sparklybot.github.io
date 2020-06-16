@@ -6,7 +6,7 @@ categories:
 image: "/uploads/blog.jpg"
 author: Claudia
 duration: 5 min read
-overview: true
+overview: false
 ---
 
 **What makes a business successful is very different from a decade ago. A recent development is to pay more attention to employee happiness. Studies have discovered that companies focussing on employee happiness perform better than those who don’t. But how do you achieve that?**
