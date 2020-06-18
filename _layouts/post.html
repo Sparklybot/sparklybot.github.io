@@ -75,7 +75,7 @@ layout: default
 
 {% assign firstCategory = page.categories | first %}
 {% assign anyRelated = site.categories[firstCategory] | size %}
-{% if anyRelated != 0 %}
+{% if anyRelated > 1 %}
 <section class="container mx-auto px-4 pt-8 pb-16 max-w-4xl">
     <h2 class="text-4xl leading-9 tracking-light font-bold text-gray-900 sm:text-3xl sm:leading-10">Related articles</h2>
 
