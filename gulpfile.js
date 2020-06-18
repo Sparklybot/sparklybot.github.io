@@ -3,6 +3,7 @@ const csso = require('gulp-csso');
 const sass = require('gulp-sass');
 const postcss = require('gulp-postcss');
 const terser = require('gulp-terser');
+const webp = require('gulp-webp');
 
 gulp.task('style', function () {
     const tailwindCss = require('tailwindcss');
@@ -34,5 +35,11 @@ gulp.task('js', async function () {
     return stream;
 });
 
-gulp.task('default', gulp.series('style','js'));
-gulp.task('build', gulp.series('style','js'));
+gulp.task('images', async function () {
+   return gulp.src(['./resources/**/*.jpg', './resources/**/*.png'])
+       .pipe(webp())
+       .pipe(gulp.dest('./resources/optimized'));
+});
+
+gulp.task('default', gulp.series('style','js','images'));
+gulp.task('build', gulp.series('style','js','images'));

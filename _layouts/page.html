@@ -21,7 +21,17 @@ layout: default
                 <div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
                     <div class="flex-shrink-0">
                         <a href="{{ post.url }}" class="blog-article">
-                            <img class="h-48 w-full object-cover" src="{{ post.image }}" alt="Image of {{ post.title}} article" />
+                            {% if post.image-webp %}
+                                <picture>
+                                    {% assign imgFile = post.image | split: "/uploads/" %}
+                                    {% assign imgName = imgFile[1] | split: "." %}
+
+                                    <source type="image/webp" srcset="/uploads/optimized/{{ imgName[0] }}.webp" class="w-full h-48 object-cover">
+                                    <img src="{{ post.image }}" alt="Image of article" class="w-full h-48 object-cover">
+                                </picture>
+                            {% else %}
+                                <img class="h-48 w-full object-cover" src="{{ post.image }}" alt="Image of article" />
+                            {% endif %}
                         </a>
                     </div>
                     <div class="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -49,7 +59,12 @@ layout: default
                         <div class="mt-6 flex items-center">
                             {% assign author = site.data.authors[post.author] %}
                             <div class="flex-shrink-0">
-                                <img class="h-10 w-10 rounded-full" src="{{ author.picture }}" alt="Image of {{ author.name }}" />
+                                {% assign imgFile = author.picture | split: "/resources/" %}
+                                {% assign imgName = imgFile[1] | split: "." %}
+                                <picture>
+                                    <source type="image/webp" srcset="/resources/optimized/{{ imgName[0] }}.webp" class="h-10 w-10 rounded-full">
+                                    <img src="{{ author.picture }}" alt="Image of {{ author.name }}" class="h-10 w-10 rounded-full">
+                                </picture>
                             </div>
                             <div class="ml-3">
                                 <p class="text-sm leading-5 font-medium text-gray-900">

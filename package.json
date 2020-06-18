@@ -17,6 +17,7 @@
     "gulp-purgecss": "^2.2.0",
     "gulp-sass": "^4.1.0",
     "gulp-terser": "^1.2.0",
+    "gulp-webp": "^4.0.1",
     "tailwindcss": "^1.4.6"
   }
 }
