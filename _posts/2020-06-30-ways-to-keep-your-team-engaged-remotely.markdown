@@ -5,9 +5,9 @@ categories:
 - employee-happiness
 - remote-work
 image: "/uploads/photo-1587578932405-7c740a762f7f-2c7656.jpg"
-image-webp: "/uploads/photo2.webp"
+image-webp: "/uploads/photo-1587578932405-7c740a762f7f-2c7656.webp"
 author: claudia
-duration: '5 min '
+duration: '5 min'
 Field name: true
 ---
 

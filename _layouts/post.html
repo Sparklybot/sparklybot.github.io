@@ -45,10 +45,7 @@ layout: default
     <div class="mt-2 mb-6 justify-center mx-auto max-w-4xl">
         {% if page.image-webp %}
             <picture>
-                {% assign imgFile = page.image | split: "/uploads/" %}
-                {% assign imgName = imgFile[1] | split: "." %}
-
-                <source type="image/webp" srcset="/uploads/optimized/{{ imgName[0] }}.webp">
+                <source type="image/webp" srcset="{{ page.image-webp }}">
                 <img src="{{ page.image }}" alt="Blog image for article">
             </picture>
         {% else %}

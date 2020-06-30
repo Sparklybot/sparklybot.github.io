@@ -23,10 +23,7 @@ layout: default
                         <a href="{{ post.url }}" class="blog-article">
                             {% if post.image-webp %}
                                 <picture>
-                                    {% assign imgFile = post.image | split: "/uploads/" %}
-                                    {% assign imgName = imgFile[1] | split: "." %}
-
-                                    <source type="image/webp" srcset="/uploads/optimized/{{ imgName[0] }}.webp" class="w-full h-48 object-cover">
+                                    <source type="image/webp" srcset="{{ post.image-webp }}" class="w-full h-48 object-cover">
                                     <img src="{{ post.image }}" alt="Image of article" class="w-full h-48 object-cover">
                                 </picture>
                             {% else %}
