@@ -45,7 +45,6 @@ The company also highlights that they let employees play online games during wor
 
 \
 \##  3. Virtual Break-time Chatter Channel
-
 \
 The ideal remote workers are self-sufficient; but they are still humans that need human interactions. Providing a tool that helps to start these interactions can give your team a chance to bond with each other over mutual interests or ideas. When working digitally, those interactions are usually much less common compared to when working in an office.
 
