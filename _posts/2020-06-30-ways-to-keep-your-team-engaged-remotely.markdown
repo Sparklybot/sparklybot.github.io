@@ -7,7 +7,7 @@ categories:
 image: "/uploads/article2.jpg"
 image-webp: "/uploads/article2.webp"
 author: claudia
-duration: '5 min'
+duration: 5 min
 Field name: true
 ---
 
