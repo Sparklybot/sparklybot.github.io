@@ -15,9 +15,7 @@ Remote work has been on the rise. Recent [statistics](https://www.flexjobs.com/b
 
 <!--more-->
 
-As more companies have people work remotely, they quickly find out that it comes with new challenges for both managers and employees. With the teams communicating digitally, it can become difficult to maintain a strong, engaged company culture.
-
-Employees also claim that loneliness and lack of collaborative communication are among one of [the biggest challenges of working remotely](https://buffer.com/state-of-remote-work-2019).
+As more companies have people work remotely, they quickly find out that it comes with new challenges for both managers and employees. With the teams communicating digitally, it can become difficult to maintain a strong, engaged company culture. Employees also claim that loneliness and lack of collaborative communication are among one of [the biggest challenges of working remotely](https://buffer.com/state-of-remote-work-2019).
 
 Fortunately, building a better remote work culture can easily be achieved with the right approach. Some remote-first or remote-only companies have been at it for years and have figured out how to achieve a strong work culture with distributed teams all over the world.
 
