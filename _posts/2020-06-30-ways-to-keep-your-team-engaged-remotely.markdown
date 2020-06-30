@@ -11,7 +11,7 @@ duration: '5 min '
 Field name: false
 ---
 
-Remote work has been on the rise. Recent \[statistics\](https://www.flexjobs.com/blog/post/remote-work-statistics/) show that 91% more workers do their work remotely compared to the previous decade in the U.S. It is no longer a rare company perk, but instead a fundamental one that offers a flexible lifestyle. It’s safe to say that it is becoming the \[new norm\](https://remote.co/proof-remote-work-becoming-norm/) for most businesses.
+Remote work has been on the rise. Recent [statistics](https://www.flexjobs.com/blog/post/remote-work-statistics/) show that 91% more workers do their work remotely compared to the previous decade in the U.S. It is no longer a rare company perk, but instead a fundamental one that offers a flexible lifestyle. It’s safe to say that it is becoming the new norm for most businesses.
 \
 <!--more-->
 \
@@ -58,14 +58,13 @@ The ideal remote workers are self-sufficient; but they are still humans that nee
 Nindita Hapsari, an Indonesian representative of EII, told us about her first few months while working remotely.
 
 > “At first, I felt lonely and disconnected to others. Previously, I used to work in an office and this gave me the feeling I was part of my team and the company. Adjusting to remote work was a pretty big deal. It was hard to get a quick response from others, and I missed having informal conversations that I used to have with co-workers in a physical office.”
-> 
 
 \
 To improve internal communication and strengthen the bonds between the staff members, EII decided to make a Facebook group called “Watercooler Chat”. Here they can share non-work related updates to others such as pictures of their pets and places they visited last weekend. It had a big positive effect on the mental wellbeing of the team members, as well as on the work itself.
 
 \
 \##  4. Virtual paired buddy program
- \
+\
 It’s pretty common for remote companies to have an onboarding program, during which new hires are matched with a more senior colleague. \[Help Scout\](https://www.helpscout.com/blog/employee-onboarding/), a remote company with 80 employees, has a program called “Work Best Friend” to help new hires adapt to their new work environment. \[Automattic\](https://automattic.com/), another remote company, has a mix of self-guided training and buddy feedback for new hires.
 
 \
