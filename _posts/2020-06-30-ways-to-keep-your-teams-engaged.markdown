@@ -4,8 +4,8 @@ date: 2020-06-30 02:06:00 Z
 categories:
 - employee-happiness
 - remote-work
-Image: 
-image-webp: 
+Image: "/uploads/photo-1587578932405-7c740a762f7f.jpg"
+image-webp: "/uploads/photo2.webp"
 author: claudia
 duration: '5 min read '
 overview: false
