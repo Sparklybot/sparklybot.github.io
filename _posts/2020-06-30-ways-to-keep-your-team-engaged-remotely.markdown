@@ -48,8 +48,8 @@ The ideal remote workers are self-sufficient; but they are still humans that nee
 
 Nindita Hapsari, an Indonesian representative of EII, told us about her first few months while working remotely.
 
-> “At first, I felt lonely and disconnected to others. Previously, I used to work in an office and this gave me the feeling I was part of my team and the company. Adjusting to remote work was a pretty big deal. It was hard to get a quick response from others, and I missed having informal conversations that I used to have with co-workers in a physical office.”
-
+> “At first, I felt lonely and disconnected to others. Previously, I used to work in an office and this gave me the feeling I was part of my team and the company. Adjusting to remote work was a pretty big deal. It was hard to get a quick response from others, and I missed having informal conversations that I used to have with co-workers in a physical office.”  
+  
 To improve internal communication and strengthen the bonds between the staff members, EII decided to make a Facebook group called “Watercooler Chat”. Here they can share non-work related updates to others such as pictures of their pets and places they visited last weekend. It had a big positive effect on the mental wellbeing of the team members, as well as on the work itself.
 
 ##  4. Virtual Paired Buddy Program
