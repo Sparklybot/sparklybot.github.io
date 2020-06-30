@@ -7,7 +7,8 @@ categories:
 Image: "/uploads/photo-1587578932405-7c740a762f7f.jpg"
 image-webp: https://unsplash.com/photos/9ukCFPNotzs
 author: claudia
-duration: false
+duration: '5 min read '
+overview: false
 layout: post
 ---
 
