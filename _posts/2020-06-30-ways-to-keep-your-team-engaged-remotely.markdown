@@ -52,7 +52,7 @@ Nindita Hapsari, an Indonesian representative of EII, told us about her first fe
 
 To improve internal communication and strengthen the bonds between the staff members, EII decided to make a Facebook group called “Watercooler Chat”. Here they can share non-work related updates to others such as pictures of their pets and places they visited last weekend. It had a big positive effect on the mental wellbeing of the team members, as well as on the work itself.
 
-##  4. Virtual paired buddy program
+##  4. Virtual Paired Buddy Program
 
 It’s pretty common for remote companies to have an onboarding program, during which new hires are matched with a more senior colleague. [Help Scout](https://www.helpscout.com/blog/employee-onboarding/), a remote company with 80 employees, has a program called “Work Best Friend” to help new hires adapt to their new work environment. [Automattic](https://automattic.com/), another remote company, has a mix of self-guided training and buddy feedback for new hires.
 
