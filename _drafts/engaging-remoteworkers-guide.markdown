@@ -1,10 +1,19 @@
 ---
 title: How to keep your team engaged when working remotely
 date: 2020-06-30 02:06:00 Z
+categories:
+- employee-happiness
+- remote-work
+Image: "/uploads/photo-1587578932405-7c740a762f7f.jpg"
+image-webp: https://unsplash.com/photos/9ukCFPNotzs
+author: claudia
+duration: false
 layout: post
 ---
 
 Remote work has been on the rise. Recent statistics show that 91% more workers do their work remotely compared to the previous decade in the U.S. It is no longer a rare company perk, but instead a fundamental one that offers a flexible lifestyle. It’s safe to say that it is becoming the new norm for most businesses.
+
+<!--more-->
 
 As more companies have people work remotely, they quickly find out that it comes with new challenges for both managers and employees. With the teams communicating digitally, it can become difficult to maintain a strong, engaged company culture. Employees also claim that loneliness, and lack of collaborative communication are among one of the biggest challenges of working remotely. 
 
