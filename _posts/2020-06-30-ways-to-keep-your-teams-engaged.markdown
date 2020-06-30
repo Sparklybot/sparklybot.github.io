@@ -1,5 +1,5 @@
 ---
-title: How to keep your team engaged when working remotely
+title: How To Keep Your Team Engaged When Working Remotely
 date: 2020-06-30 02:06:00 Z
 categories:
 - employee-happiness
