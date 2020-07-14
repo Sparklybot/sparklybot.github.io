@@ -21,7 +21,7 @@ Switching to virtual communication can result in misunderstandings and misinterp
 
 It is the ultimate first step to build a company culture. Your candidates have to have a culture fit with your company’s culture and values. As not everyone will have the skills and traits to work remotely in an efficient manner. So, having the right candidates on board will advance the company culture building.  
 
-[Zapier](https://zapier.com/learn/remote-work/how-to-hire-remote-team/), an automation company that is fully remote defining a top-notch remote worker who has these traits, such as ability towards action, ability to prioritize, proficient writing, and trust-worthy. These are the skillsets you need to have to be successful in this type of environment. The company also mentions that being public and transparent about your company’s culture and values goes a long way towards establishing trust with your new hires. 
+[Zapier](https://zapier.com/learn/remote-work/how-to-hire-remote-team/), an automation company that is fully remote defining a top-notch remote worker who has these traits, such as ability towards action, ability to prioritize, proficient writing, and trust-worthy. These are the skillsets you need to have to be successful in this type of environment. They also mention that being public and transparent about your culture and values goes a long way towards establishing trust with your new hires. 
 
 ## 2. Be Transparent
 
