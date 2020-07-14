@@ -28,11 +28,8 @@ It is the ultimate first step to build a company culture. Your candidates have t
 Transparency needs to be the core value of every company. Especially when you work remotely. With everyone working from home, it can happen that context or important information is lost in video calls or chats. Transparency at remote work requires a good communication tool and taking extra care with crafting messages and announcements, which will result in increased productivity and trust. 
 
 Here are some simple tactics for maintaining transparency and how other remote companies do it: 
-
 * Keeping your employees informed - surprises aren’t welcome. Use a communication tool that works best with your company’s communication style. Here at [Sparkly](https://sparklybot.com/), we use Slack. Regardless of what communication tool your team or company uses, ensure that everyone knows where to turn to when they need information. Make it easy to share big and small messages and announcements with employees across departments. 
-
 * Don’t be anonymous -  [Zapier](https://zapier.com/blog/build-trust-remote-work/) encourages their team to always attach their names to any questions or comments. This helps build a culture of transparency that ultimately helps build trust amongst colleagues.
-
 * [Buffer](https://buffer.com/about#transparency) has a radical take on transparency. The company is open and transparent of its vital signs as well - financial and product-focused metrics are for everyone to see. They publish a regular report detailing the revenue growth, user base growth, and even salaries on their website.
 
 ## 3. Humility Goes A Long Way
