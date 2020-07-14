@@ -8,7 +8,7 @@ image: "/uploads/article%203.jpg"
 image-webp: "/uploads/article%203.webp"
 author: claudia
 duration: 5 min
-Field name: false
+Field name: true
 ---
 
 **Trust is precious and critical to team success, both in a physical and virtual environment. But how does trust actually function in an environment that is partially or entirely remote? And how do remote companies keep their team accountable for their work?**
