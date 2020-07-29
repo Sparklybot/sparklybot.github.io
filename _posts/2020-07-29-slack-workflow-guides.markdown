@@ -11,7 +11,7 @@ duration: 5 min
 Field name: false
 ---
 
-[Slack](https://slack.com/intl/en-id/) is undeniably one of the most popular instant messaging tools for businesses. And for good reasons: it provides plenty of options for managing conversations, passing along contents, and integrating with other third-party apps. It’s all designed to give the best possible communication experiences for your connected teams.
+**[Slack](https://slack.com/intl/en-id/) is undeniably one of the most popular instant messaging tools for businesses. And for good reasons: it provides plenty of options for managing conversations, passing along contents, and integrating with other third-party apps. It’s all designed to give the best possible communication experiences for your connected teams.**
 
 <!--more--> 
 
