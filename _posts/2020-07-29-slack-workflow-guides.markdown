@@ -5,7 +5,7 @@ categories:
 - remote-work
 - slack-tips
 Image: "/uploads/article%204.jpg"
-image-webp: 
+image-webp: "/uploads/article%204.webp"
 author: claudia
 duration: 5 min
 Field name: false
