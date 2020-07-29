@@ -26,7 +26,7 @@ By default, Slack notifies you with all new messages. It can be distracting when
 
 ## 2. Use Slackbot
 
-This little handy bot can be a huge Slack-savior. From asking for help when you aren’t sure how to do something in Slack to set reminders for yourself or teammates, which for the record is my favourite. For example, let’s say I’d like to be reminded to take ice cream breaks at certain times. I’d ask Slackbot to set a reminder for me. There are a few ways to [do so](https://slack.com/intl/en-id/help/articles/208423427-Set-a-reminder#delete-a-reminder) at Slack, but the quickest one is to type: /remind [@someone or #channel] “[what]” “[when]”. 
+This little handy bot can be a huge *Slack-savior*. From asking for help when you aren’t sure how to do something in Slack to set reminders for yourself or teammates, which for the record is my favourite. For example, let’s say I’d like to be reminded to take ice cream breaks at certain times. I’d ask Slackbot to set a reminder for me. There are a few ways to [do so](https://slack.com/intl/en-id/help/articles/208423427-Set-a-reminder#delete-a-reminder) at Slack, but the quickest one is to type: /remind [@someone or #channel] “[what]” “[when]”. 
 
 Slack will then drop you a friendly message to remind you about your task. And if you type **/remind list**, it gives you access to all the reminders you’ve made. It almost feels like having an assistant in your workspace! 
 
