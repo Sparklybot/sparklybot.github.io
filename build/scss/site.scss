@@ -54,6 +54,12 @@ article {
   blockquote {
     @apply relative px-4 py-2 text-lg italic border-l-4 border-gray-500 font-bold font-title my-1;
   }
+
+  .center-img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 @tailwind components;
