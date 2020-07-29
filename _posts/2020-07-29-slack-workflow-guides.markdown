@@ -29,8 +29,7 @@ This little handy bot can be a huge *Slack-savior*. From asking for help when yo
 
 Slack will then drop you a friendly message to remind you about your task. And if you type **/remind list**, it gives you access to all the reminders you’ve made. It almost feels like having an assistant in your workspace!
 
-![Slack_Reminder.png](/uploads/Slack_Reminder.png){:class="center-img"}\
-*PS: And I didn’t end up having an Ice cream at that time :( but okay *{:class="center-img"}
+![Slack_Reminder.png](/uploads/Slack_Reminder.png){:class="center-img"}
 
 ## 3. Take Advantage of The Keyboard Shortcuts
 
