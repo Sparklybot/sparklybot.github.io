@@ -12,7 +12,7 @@ duration: 5 min
 Field name: false
 ---
 
-**[Slack](https://slack.com/intl/en-id/) is undeniably one of the most popular instant messaging tools for businesses. And for good reasons: it provides plenty of options for managing conversations, passing along contents, and integrating with other third-party apps. It’s all designed to give the best possible communication experiences for your connected teams.**
+[Slack](https://slack.com/intl/en-id/) is undeniably one of the most popular instant messaging tools for businesses. And for good reasons: it provides plenty of options for managing conversations, passing along contents, and integrating with other third-party apps. It’s all designed to give the best possible communication experiences for your connected teams.
 
 <!--more--> 
 
@@ -31,7 +31,7 @@ This little handy bot can be a huge Slack-savior. From asking for help when you 
 Slack will then drop you a friendly message to remind you about your task. And if you type **/remind list**, it gives you access to all the reminders you’ve made. It almost feels like having an assistant in your workspace! 
 
 ![Slack_Reminder.png](/uploads/Slack_Reminder.png)
-*Ps: And I didn’t end up having an Ice cream at that time :( but okay.*### 
+*Ps: And I didn’t end up having an Ice cream at that time :( but okay.*
 
 ## 3. Take Advantage of The Keyboard Shortcuts
 
@@ -68,7 +68,7 @@ DND (Do Not Disturb) mode is beyond just a status that only lets teams know that
 Important opinions and ideas are often found lost within discussions with many people. Using threads is helpful for your team to keep up with the conversations they need to follow. It’s more neat and efficient than having to mention a person in normal chat. They’ll get notified of your reply and all the following replies will be kept there in one organized list. 
 
 ![Slack_thread new.png](/uploads/Slack_thread%20new.png)
-*Ps: Unfortunately I still don’t have a cat to this day :(*### 
+*Ps: Unfortunately I still don’t have a cat to this day :(*
 
 ## 9. Integrate With Other Desired Apps 
 
