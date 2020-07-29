@@ -21,7 +21,7 @@ But like all communication tools, it can also be a distraction. Constant notific
 
 By default, Slack notifies you with all new messages. It can be distracting when you are in the middle of work. But know that you can always customize those notifications to fit your needs easily. I’d like Slack to send me notifications only when I’m mentioned, someone replies on the threads I’m following or occasionally if one of my keywords is triggered. I find this customization eliminates my worry about missing out on important updates and only allows me to open Slack when I have a purpose. Learn more about how to further customize your Slack notifications [here](https://slack.com/intl/en-id/help/articles/201355156-Guide-to-desktop-notifications).
 
-![Slack_Notifications.png](/uploads/Slack_Notifications.png){: center-img }
+![Slack_Notifications.png](/uploads/Slack_Notifications.png){:class="center-img"}
 
 ## 2. Use Slackbot
 
