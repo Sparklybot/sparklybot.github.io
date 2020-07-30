@@ -4,7 +4,7 @@ date: 2020-07-29 08:08:00 Z
 categories:
 - remote-work
 - slack-tips
-Image: "/uploads/article%204.jpg"
+image: "/uploads/article%204.jpg"
 image-webp: "/uploads/article%204.webp"
 author: claudia
 duration: 5 min
