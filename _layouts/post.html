@@ -86,7 +86,7 @@ layout: default
 <section class="container mx-auto px-4 pt-8 pb-16 max-w-4xl">
     <h2 class="text-4xl leading-9 tracking-light font-bold text-gray-900 sm:text-3xl sm:leading-10">Related articles</h2>
 
-    <div class="mt-2 grid gap-16 border-t-2 border-gray-100 pt-6 lg:grid-cols-3 lg:col-gap-5 lg:row-gap-12">
+    <div class="mt-2 grid gap-16 border-t-2 border-gray-100 pt-6 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-12">
         {% assign relatedCount = 0 %}
         {% for related in site.categories[firstCategory] %}
           {% unless page.url == related.url %}
