@@ -18,5 +18,5 @@ To deploy, make sure npm and git are installed. Also make sure that after clonin
 
 The blog automatically updates because it runs on Github Pages.
 
-``Development``
+``Dev``
 Development can easily be done by running the command ``gulp serve``. Runs a local server and listens to changes in the code.
