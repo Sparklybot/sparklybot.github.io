@@ -8,7 +8,6 @@ image: "/uploads/article2.jpg"
 image-webp: "/uploads/article2.webp"
 author: claudia
 duration: 5 min
-Field name: true
 ---
 
 Remote work has been on the rise. Recent [statistics](https://www.flexjobs.com/blog/post/remote-work-statistics/) show that 91% more workers do their work remotely compared to the previous decade in the U.S. It is no longer a rare company perk, but instead a fundamental one that offers a flexible lifestyle. It’s safe to say that it is becoming the [new norm](https://remote.co/proof-remote-work-becoming-norm/) for most businesses.
